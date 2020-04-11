@@ -1,5 +1,6 @@
-![alt tag](https://raw.github.com/ccarrster/kraplow/master/westerncardgame/logo2.png)
-```
+#### hestela-branch
+This branch has changes specific to my setup needs and some changes to the game itself
+
 # kraplow
 A web Western Card Game you can play online - Implements the same rules as a western card game!
 Multiplayer, Single Player or a mix of AI and Humans.
@@ -41,4 +42,3 @@ Working on Sidestep Township expansion.
 Need to add images for new blue, brown, green cards.
 Need to show card suits for Apache Kid.
 Need to fix bugs I created.
-```
